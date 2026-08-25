@@ -177,7 +177,7 @@ The investigation's contribution isn't measuring whether low-carbon energy is gr
 │   └── analysis_queries.sql 
 ├── data/
 │   └── cleaned_dataset.xlsx
-├── powerbi/
+├── visual/
 │   └── energy_transition_dashboard.pbix
 └── docs/
     └── Energy_Analytics_Master_Archive-1.docx
